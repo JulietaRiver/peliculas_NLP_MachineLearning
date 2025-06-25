@@ -1,4 +1,4 @@
-# rese-as_peliculas_NPL_MachineLearning
+# peliculas_NLP_MachineLearning
 
 🎬 Clasificador de Reseñas de Películas IMDb
 Proyecto de clasificación de texto con NLP y modelos de Machine Learning para detectar automáticamente reseñas negativas de películas.
